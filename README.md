@@ -1,7 +1,6 @@
 # Diabetic-Retinopathy-Lesion-Segmentation
 
-**Project developed under the scope of Artificial Intelligence Fundamentals course, 2024/2025.
-**
+**Project developed under the scope of Artificial Intelligence Fundamentals course, 2024/2025.**
 
 ## Overview
 
